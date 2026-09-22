@@ -16,21 +16,8 @@
 
 <br/>
 
-## 🧑‍💻 Who I Am
 
-```ts
-const ashish = {
-  title: "MERN Stack Developer",
-  stack: [
-    "C", "C++", "HTML", "CSS", "JavaScript",
-    "Node.js", "React.js", "Express.js", "MongoDB"
-  ],
-  launchedProjects: ["data-analyst-agents"],
-  certifications: [],
-  status: "Building full-stack apps & exploring multi-agent AI systems",
-  openTo: ["Full-time roles", "Collaborations", "Freelance projects"],
-};
-```
+
 
 <br/>
 
